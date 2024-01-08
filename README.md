@@ -1,6 +1,13 @@
 # AR Vuforia
 Para integrar AR con Vuforia en tu proyecto Unity, sigue estos pasos:
 
+## Requisitos
+Unity: Versión 2022.3.10 o posterior.
+Créditos
+Desarrollado por Ariel454.
+
+## Licencia
+Este proyecto no tiene licencia especificada. ¡Úsalo y disfrútalo libremente!
 
 ## Licencia Vuforia:
 
